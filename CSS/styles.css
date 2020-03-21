@@ -1,0 +1,21 @@
+body {
+  background-color: pink;
+}
+
+hr {
+    border-color: grey;
+    border-style:none;
+    border-top-style:dotted;
+    border-width: 5px;
+    width: 5%
+}
+
+h1 {
+  color:#B21F66;
+  font-stretch: semi-expanded;
+  font-style: oblique;
+}
+
+h3 {
+  color:#381460;
+}
